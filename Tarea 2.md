@@ -16,7 +16,7 @@ En esta escala, hay algunos lenguajes que quedan en el centro, como C, el cual s
 
 # ¿Qué es un lenguaje compilado?
 
-Son aquellos que primero generan un codigo maquina a partir de un codigo fuente en la totalidad. 
+Son aquellos que primero generan un codigo maquina a partir de un codigo fuente en la totalidad.
 Leen todo el codigo y lo traducen.
 
 # ¿Qué es un lenguaje interpretado?
